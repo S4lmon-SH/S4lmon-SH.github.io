@@ -1,0 +1,3 @@
+# Custom tab label; other labels are inherited from the theme.
+tabs:
+  이력: 이력
