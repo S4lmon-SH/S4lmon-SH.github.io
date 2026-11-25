@@ -25,6 +25,12 @@ permalink: /resume/
 - **2025** · 교육부 주관 SW 개발보안 경진대회(소개딩) 본선
 - **2026** · 화이트햇 예선 9등
 
+## 자격증
+
+- 한국사능력검정시험 1급
+- 초경량비행장치 조종자 자격증 1종
+- 정보처리기사
+
 ## CVE
 
 - [`CVE-2026-135150`](https://www.cve.org/CVERecord?id=CVE-2026-135150) · Eclipse Ditto 인증 우회 (Critical)
