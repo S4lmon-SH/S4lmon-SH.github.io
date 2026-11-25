@@ -33,7 +33,7 @@ permalink: /resume/
 
 ## CVE
 
-- [`CVE-2026-135150`](https://www.cve.org/CVERecord?id=CVE-2026-135150) · Eclipse Ditto 인증 우회 (Critical)
+- [`CVE-2026-135150`](https://www.cve.org/CVERecord?id=CVE-2026-135150) · Eclipse Ditto 인증 우회 (Critical) · [분석 글](/posts/cve-2026-135150-eclipse-ditto/)
 
 ## 토스 버그바운티
 
